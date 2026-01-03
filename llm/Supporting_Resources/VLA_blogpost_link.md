@@ -1,0 +1,1 @@
+[Vision-Language-Action (VLA) Models: от токенов к действиям - DeepSchool](https://blog.deepschool.ru/dl/vision-language-action-vla-kak-ii-uchitsya-videt-ponimat-i-dejstvovat-v-realnom-mire/?utm_source=tg&utm_medium=post&utm_campaign=blog-article&utm_content=deepschool&utm_term=vla)
