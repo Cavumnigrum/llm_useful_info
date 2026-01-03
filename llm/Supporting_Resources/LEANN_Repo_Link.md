@@ -1,0 +1,1 @@
+[GitHub - yichuan-w/LEANN: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.](https://github.com/yichuan-w/LEANN)
